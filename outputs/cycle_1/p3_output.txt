@@ -1,0 +1,53 @@
+Stack operations
+[1] Push
+[2] Pop
+[3] Display
+[4] Exit
+Enter a choice: 1
+Enter the element to push: 11
+11 pushed to stack
+
+Stack operations
+[1] Push
+[2] Pop
+[3] Display
+[4] Exit
+Enter a choice: 1
+Enter the element to push: 22
+22 pushed to stack
+
+Stack operations
+[1] Push
+[2] Pop
+[3] Display
+[4] Exit
+Enter a choice: 1
+Enter the element to push: 33
+33 pushed to stack
+
+Stack operations
+[1] Push
+[2] Pop
+[3] Display
+[4] Exit
+Enter a choice: 2
+33 popped from stack
+
+Stack operations
+[1] Push
+[2] Pop
+[3] Display
+[4] Exit
+Enter a choice: 3
+Displaying stack...
+| 22    |
+| 11    |
++-------+
+
+Stack operations
+[1] Push
+[2] Pop
+[3] Display
+[4] Exit
+Enter a choice: 4
+Quitting

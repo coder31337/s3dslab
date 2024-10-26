@@ -1,0 +1,2 @@
+Enter an infix expression: a+b*(c/d)+e
+The postfix expression is abcd/*+e+

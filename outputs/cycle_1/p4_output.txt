@@ -1,0 +1,51 @@
+Queue operations
+[1] Enqueue
+[2] Dequeue
+[3] Display
+[4] Exit
+Enter a choice: 1
+Enter the element to enqueue: 10
+10 added to queue
+
+Queue operations
+[1] Enqueue
+[2] Dequeue
+[3] Display
+[4] Exit
+Enter a choice: 1
+Enter the element to enqueue: 20
+20 added to queue
+
+Queue operations
+[1] Enqueue
+[2] Dequeue
+[3] Display
+[4] Exit
+Enter a choice: 1
+Enter the element to enqueue: 30
+30 added to queue
+
+Queue operations
+[1] Enqueue
+[2] Dequeue
+[3] Display
+[4] Exit
+Enter a choice: 2
+10 removed from queue
+
+Queue operations
+[1] Enqueue
+[2] Dequeue
+[3] Display
+[4] Exit
+Enter a choice: 3
+Displaying queue...
+F| 20 | 30 |R
+
+Queue operations
+[1] Enqueue
+[2] Dequeue
+[3] Display
+[4] Exit
+Enter a choice: 4
+Quitting

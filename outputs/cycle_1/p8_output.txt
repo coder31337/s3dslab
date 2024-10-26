@@ -1,0 +1,2 @@
+Enter a postfix expression: 43*95+
+The postfix evaluation is -2

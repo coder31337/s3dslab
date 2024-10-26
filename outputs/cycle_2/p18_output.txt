@@ -1,0 +1,31 @@
+Polynomial 1
+Enter the number of non zero terms: 4
+Enter the coefficient and exponent in order
+Enter coefficient: 6
+Enter exponent: 3
+
+Enter coefficient: 8
+Enter exponent: 2
+
+Enter coefficient: 5
+Enter exponent: 1
+
+Enter coefficient: 10
+Enter exponent: 0
+Entered polynomial 1 = 6x^3 + 8x^2 + 5x^1 + 10x^0
+
+
+Polynomial 2
+Enter the number of non zero terms: 3
+Enter the coefficient and exponent in order
+Enter coefficient: 12
+Enter exponent: 4
+
+Enter coefficient: 2
+Enter exponent: 2
+
+Enter coefficient: 3
+Enter exponent: 0
+Entered polynomial 2 = 12x^4 + 2x^2 + 3x^0
+
+Sum polynomial = 12x^4 + 6x^3 + 10x^2 + 5x^1 + 13x^0

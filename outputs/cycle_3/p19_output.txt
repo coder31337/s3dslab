@@ -1,0 +1,4 @@
+Enter the number of elements: 5
+Enter the 5 elements: 23 2 12 6 1
+The sorted elements are
+1 2 6 12 23

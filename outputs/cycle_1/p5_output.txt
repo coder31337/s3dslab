@@ -1,0 +1,11 @@
+Enter the number of elements: 5
+Enter the 5 elements: 45 23 2 12 7
+Enter the element to search for: 10
+Element not found
+
+...
+
+Enter the number of elements: 5 
+Enter the 5 elements: 45 23 2 12 7
+Enter the element to search for: 12
+Element found at position 4

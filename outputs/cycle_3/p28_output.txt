@@ -1,0 +1,16 @@
+Enter the hash table size: 17
+
+Enter the key value: 23
+Key 23 is hashed to 6
+
+Hash another key? (1 Yes / 0 No): 1
+
+Enter the key value: 47
+Key 47 is hashed to 13
+
+Hash another key? (1 Yes / 0 No): 1
+
+Enter the key value: 6
+Hash collision occurred
+
+Hash another key? (1 Yes / 0 No): 0

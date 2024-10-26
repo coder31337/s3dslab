@@ -1,0 +1,4 @@
+Enter the number of elements: 5
+Enter the 5 elements: 69 4 2 8 32
+The sorted elements are
+2 4 8 32 69

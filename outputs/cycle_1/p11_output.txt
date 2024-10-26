@@ -1,0 +1,47 @@
+Circular Queue operations
+ [1] Display
+ [2] Insert
+ [3] Delete
+ [4] Exit
+
+Enter a choice: 2
+Enter the element to insert: 1
+1 added to circular queue
+
+Enter a choice: 2
+Enter the element to insert: 2
+2 added to circular queue
+
+Enter a choice: 2
+Enter the element to insert: 3
+3 added to circular queue
+
+Enter a choice: 1
+Displaying circular queue...
+1 2 3
+
+Enter a choice: 3
+1 deleted from circular queue
+
+Enter a choice: 2
+Enter the element to insert: 4
+4 added to circular queue
+
+Enter a choice: 1
+Displaying circular queue...
+2 3 4
+
+Enter a choice: 3
+2 deleted from circular queue
+
+Enter a choice: 3
+3 deleted from circular queue
+
+Enter a choice: 3
+4 deleted from circular queue
+
+Enter a choice: 3
+Queue is empty. Cannot delete.
+
+Enter a choice: 4
+Exiting...

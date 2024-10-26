@@ -1,0 +1,42 @@
+Double Ended Queue operations
+ [1] Display
+ [2] Insert at front
+ [3] Insert at rear
+ [4] Delete from front
+ [5] Delete from rear
+ [6] Exit
+
+Enter a choice: 2
+Enter the element to add at front: 11
+11 added to front
+
+Enter a choice: 2
+Enter the element to add at front: 22
+22 added to front
+
+Enter a choice: 1
+Displaying queue...
+22 11
+
+Enter a choice: 3
+Enter the element to add at rear: 33
+33 added to rear
+
+Enter a choice: 1
+Displaying queue...
+22 11 33
+
+Enter a choice: 4
+22 deleted from front
+
+Enter a choice: 5
+33 deleted from rear
+
+Enter a choice: 4
+11 deleted from front
+
+Enter a choice: 4
+Queue is empty. Cannot delete.
+
+Enter a choice: 6
+Exiting...

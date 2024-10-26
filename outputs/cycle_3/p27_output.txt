@@ -1,0 +1,25 @@
+Binary tree operations
+ [1] Add tree
+ [2] Preorder traversal
+ [3] Inorder traversal
+ [4] Postorder traversal
+ [5] Exit
+
+Enter a choice: 1
+Enter the number of nodes: 7
+Enter the node values level wise: 20 10 30 5 15 25 35
+
+Enter a choice: 2
+Displaying preorder traversal...
+20 10 5 15 30 25 35
+
+Enter a choice: 3
+Displaying inorder traversal...
+5 10 15 20 25 30 35
+
+Enter a choice: 4
+Displaying postorder traversal...
+5 15 10 25 35 30 20
+
+Enter a choice: 5
+Exiting...

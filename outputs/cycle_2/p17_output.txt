@@ -1,0 +1,56 @@
+Circular Linked List operations
+ [1] Display
+ [2] Insert at front
+ [3] Insert at rear
+ [4] Insert at position
+ [5] Delete from front
+ [6] Delete from rear
+ [7] Delete from position
+ [8] Exit
+
+Enter a choice: 2
+Enter the element to insert at front: 11
+11 inserted at front
+
+Enter a choice: 2
+Enter the element to insert at front: 22
+22 inserted at front
+
+Enter a choice: 3
+Enter the element to insert at rear: 33
+33 inserted at rear
+
+Enter a choice: 1
+Displaying list...
+22 11 33
+
+Enter a choice: 4
+Enter the element and key: 9 11
+9 inserted to list
+
+Enter a choice: 1
+Displaying list...
+22 11 9 33
+
+Enter a choice: 7
+Enter the key: 11
+11 deleted from list
+
+Enter a choice: 1
+Displaying list...
+22 9 33
+
+Enter a choice: 5
+22 deleted from front
+
+Enter a choice: 6
+33 deleted from rear
+
+Enter a choice: 5
+9 deleted from front
+
+Enter a choice: 5
+List empty. Cannot delete.
+
+Enter a choice: 8
+Exiting...

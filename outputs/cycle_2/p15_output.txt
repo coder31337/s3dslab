@@ -1,0 +1,40 @@
+Linked List Queue operations
+ [1] Display
+ [2] Enqueue
+ [3] Dequeue
+ [4] Exit
+
+Enter a choice: 2
+Enter the element to enqueue: 1
+1 added to queue
+
+Enter a choice: 2
+Enter the element to enqueue: 2
+2 added to queue
+
+Enter a choice: 2
+Enter the element to enqueue: 3
+3 added to queue
+
+Enter a choice: 1
+Displaying list...
+1 2 3
+
+Enter a choice: 3
+1 removed from queue
+
+Enter a choice: 1
+Displaying list...
+2 3
+
+Enter a choice: 3
+2 removed from queue
+
+Enter a choice: 3
+3 removed from queue
+
+Enter a choice: 3
+Queue empty. Cannot dequeue.
+
+Enter a choice: 4
+Exiting...

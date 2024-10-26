@@ -1,0 +1,56 @@
+Doubly Linked List operations
+ [1] Display
+ [2] Insert at front
+ [3] Insert at rear
+ [4] Insert at position
+ [5] Delete from front
+ [6] Delete from rear
+ [7] Delete from position
+ [8] Exit
+
+Enter a choice: 2
+Enter the element to insert at front: 1
+1 inserted at front
+
+Enter a choice: 2
+Enter the element to insert at front: 2
+2 inserted at front
+
+Enter a choice: 3
+Enter the element to insert at rear: 3
+3 inserted at rear
+
+Enter a choice: 1
+Displaying list...
+2 1 3
+
+Enter a choice: 4
+Enter the element and key: 14 1
+14 inserted to list
+
+Enter a choice: 1
+Displaying list...
+2 1 14 3
+
+Enter a choice: 7
+Enter the key: 1
+1 deleted from list
+
+Enter a choice: 1
+Displaying list...
+2 14 3
+
+Enter a choice: 5
+2 deleted from front
+
+Enter a choice: 6
+3 deleted from rear
+
+Enter a choice: 5
+14 deleted from front
+
+Enter a choice: 5
+List empty. Cannot delete.
+
+Enter a choice: 8
+Exiting...

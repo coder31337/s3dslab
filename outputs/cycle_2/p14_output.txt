@@ -1,0 +1,36 @@
+Linked List Stack operations
+ [1] Display
+ [2] Push
+ [3] Pop
+ [4] Exit
+
+Enter a choice: 2
+Enter the element to push: 1
+1 pushed to stack
+
+Enter a choice: 2
+Enter the element to push: 2
+2 pushed to stack
+
+Enter a choice: 2
+Enter the element to push: 3
+3 pushed to stack
+
+Enter a choice: 3
+3 popped from stack
+
+Enter a choice: 1
+Displaying stack...
+2 1
+
+Enter a choice: 3
+2 popped from stack
+
+Enter a choice: 3
+1 popped from stack
+
+Enter a choice: 3
+Stack empty. Cannot pop.
+
+Enter a choice: 4
+Exiting...

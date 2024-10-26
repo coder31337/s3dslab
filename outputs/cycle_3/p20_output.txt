@@ -1,0 +1,4 @@
+Enter the number of elements: 4
+Enter the 4 elements: 43 1 32 12
+The sorted elements are
+1 12 32 43

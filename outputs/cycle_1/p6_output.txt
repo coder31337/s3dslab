@@ -1,0 +1,11 @@
+Enter the number of elements: 5
+Enter the 5 sorted elements: 10 20 30 40 50
+Enter the element to search for: 61
+Element not found
+
+...
+
+Enter the number of elements: 5
+Enter the 5 sorted elements: 10 20 30 40 50
+Enter the element to search for: 20
+Element found at position 2
